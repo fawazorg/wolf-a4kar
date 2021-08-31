@@ -1,13 +1,19 @@
-# wolf a4kar
+# WOLF a4kar
 
 ## install
+
+- move .env.example to .env
+- add your WOLF credentials into .env
 
 ```bash
 npm install .
 ```
 
-- move .env.example to .env
-- add your wolf crds into .env
+## Run
+
+```bash
+npm run dev
+```
 
 ## command
 
